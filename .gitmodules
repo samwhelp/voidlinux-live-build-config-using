@@ -1,0 +1,3 @@
+[submodule "profile/template/void-mklive"]
+	path = profile/template/void-mklive
+	url = https://github.com/void-linux/void-mklive
